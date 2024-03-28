@@ -45,9 +45,9 @@ Laravel Web API Project is an API with authentication project that can be used i
     <p>Each Project can create many tasks and assign them to different members. </p>
   <h4>F2# Project has Many members</h4>
     <p>Each Project can have many members to assigned by the project creator or administrator.</p>   
-   <h4>G# Members has Many Tasks</h4>
-    <p>Each Member can receive many tasks from other members or administrators.</p>   
-   <h4>G1# Task has Many members</h4>   
-    <p>Each Task can assigned to multiple or different members</p>
-   <h4>G2# Task has Many comments</h4>
-    <p>Each Task can have many comments from member or from administrator</p>
+  <h4>G# Members has Many Tasks</h4>
+      <p>Each Member can receive many tasks from other members or administrators.</p>   
+      <h4>G1# Task has Many members</h4> 
+      <p>Each Task can assigned to multiple or different members.</p>
+     <h4>G2# Task has Many comments.</h4>
+      <p>Each Task can have many comments from members or from the administrator.</p>
