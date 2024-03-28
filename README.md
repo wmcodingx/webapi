@@ -24,7 +24,8 @@ Laravel Web API Project is an API with authentication project that can be used i
  - <strong>G</strong> Members has Many Tasks 
     - <strong>G1</strong> Task has Many members   
     - <strong>G2</strong> Task has Many comments
-
+ - <strong>H</strong> Comment has Many Comments
+    
 <hr />
 
  - <div>
@@ -69,6 +70,10 @@ Laravel Web API Project is an API with authentication project that can be used i
        <p>Each Task can have many comments from members or from the administrator.</p>
       </div>
    </div>  
+ - <div>
+      <h4>H: Comment has Many Comments</h4>
+      <p>Each Comment has a single child nested post/comments from members</p>   
+   </div>     
    
 
 
