@@ -27,7 +27,7 @@ Laravel Web API Project is an API with authentication project that can be used i
 
 <hr />
 
- - <strong>A# The platform has Many Groups/Companies</strong>
+ - <h4>A# The platform has Many Groups/Companies</h4>
   <p>Platform having a single organization and company, or a company having many groups and accounts inside the platform depends on the plan offered to clients subscribed.</p>
   <p>This web application or platform API is designed to handle tasks, and projects.</p>
   <br />
