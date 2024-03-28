@@ -25,7 +25,7 @@ Laravel Web API Project is an API with authentication project that can be used i
     - <strong>G1</strong> Task has Many members   
     - <strong>G2</strong> Task has Many comments
  - <strong>H</strong> Comment has Many Comments
-    
+ - <strong>I</strong> User Role and Capabilities  
 <hr />
 
  - <div>
@@ -74,6 +74,27 @@ Laravel Web API Project is an API with authentication project that can be used i
       <h4>H: Comment has Many Comments</h4>
       <p>Each Comment has a single child nested post/comments from members</p>   
    </div>     
+ - <div>   
+  <h4>I: User Role </h4>
+    Create Role, Edit Role, Update Role, Delete Role.
    
-
-
+  <h4>Role and Capabilities</h4>
+  Create Task
+  <br/>- Read Task
+  <br/>- Edit Task
+  <br/>- Update Task
+  <br/>- Delete Task
+  <br/>- Comment Task
+  <br/>- Read Other Task
+  <br/>- Edit Other Task
+  <br/>- Comment Other Task
+  <br/>- Update Other Task
+  <br/>- Delete other Task
+    <div> - User Logged 
+     <br /> A: - Logged Date Time Modified:
+     <br /> B: - Logged User account:
+    </div> 
+  <br/>Projects  
+  <br/>Members
+  <br/>Comments
+</div>
