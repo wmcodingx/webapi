@@ -1,5 +1,5 @@
 # WEB APPLICATION LARAVEL v11 API PROJECT
-Laravel Web API Project is an API with authentication project that can be used in real-world applications v11 
+Laravel Web API Project is an API with authentication project that can be used in real-world applications v11 authentication with sanctum API bearer access token. 
  - User
  - Task
  - Project
