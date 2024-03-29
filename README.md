@@ -5,6 +5,7 @@ Laravel Web API Project is an API with authentication project that can be used i
  - Project
  - Role
  - Members
+ - m-Profile
  - Comments
 
 <div>
@@ -15,6 +16,8 @@ Laravel Web API Project is an API with authentication project that can be used i
  - <strong>B</strong> Group/Company has One Admin/User
  - <strong>C</strong> Company Admin has Many Roles
     
+
+ - <strong>E</strong> Member has one Profile
  - <strong>D</strong> Roles has Many Members
  - <strong>E</strong> Member has Many Roles 
  - <strong>F</strong> Members has Many Projects
